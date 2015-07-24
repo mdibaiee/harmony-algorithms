@@ -1,0 +1,5 @@
+{
+  "esnext": true,
+  "globalstrict": true,
+  "globals": ["module", "console", "process", "require"]
+}
